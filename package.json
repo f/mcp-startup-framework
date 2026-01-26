@@ -25,6 +25,6 @@
     "@types/pg": "^8.11.10",
     "prettier": "^3.5.3",
     "typescript": "^5.8.3",
-    "wrangler": "^4.17.0"
+    "wrangler": "^4.59.1"
   }
 }
